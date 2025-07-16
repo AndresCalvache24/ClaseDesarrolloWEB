@@ -1,2 +1,33 @@
 Proyecto
 tiene un inicio y fin no es un proceso
+thunder client
+https://randomuser.me/api
+https://randomuser.me/api?result=10
+https://jsonbin.io/verify-email
+
+nueva coleccion jsonbin
+https://api.jsonbin.io/v3/b ||no dar enter send
+creamos un request grabardatos
+Headers5
+** https://jsonbin.io/api-reference/bins/create
+User-Agent Thunder Client (https://www.thunderclient.com)
+Content-Type >> aplication/json
+X-Master-Key ||>  Dashboard >>api-keys
+X-Bin-Name >> prueba01
+
+
+leerdata
+link q esta en Root + b/id que  esta al final de respponse de grabardatos
+https://api.jsonbin.io/v3/b/6876ee15a1c90418afa7c1f0
+
+copiamos el raw de grabardatos
+User-Agent: Thunder Client (https://www.thunderclient.com)
+Content-Type: application/json
+X-Master-Key: $2a$10$uftxNW1Nenla7zK.NsoRU.lbuR86y/Q5nte.dYiuuVDtYDRwVcfYa
+X-Bin-Name: prueba01
+
+clic send
+
+https://api.jsonbin.io/v3/b/ +Bin ID
+https://api.jsonbin.io/v3/b/6876f39ba1c90418afa7c3e4
+
